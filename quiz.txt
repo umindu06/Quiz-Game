@@ -1,0 +1,29 @@
+
+1. What is the National Game of England?
+	a.Football	b.Basketball
+	c.Cricket	d.Baseball
+#
+2. Study of Earthquake is called.......?
+	a.Seismology	b.Cosmology
+	c.Orology	d.Etimology
+#
+3. Among the top 10 highest peaks in the world, how many lie in Nepal?
+	a.6	b.7
+	c.8	d.9
+#
+4. Which of the following is a Palindrome number?
+	a.42042		b.101010
+	c.23232 	d.01234
+#
+5.The country with the highest environmental performance index is...?
+	a.France	b.Denmark
+	c.Switzerland	d.Finland
+#
+6.Which animal laughs like human being?
+	A.Polar Bear	B.Hyena
+	C.Donkey	D.Chimpanzee
+#
+7. Who was awarded the youngest player award in Fifa World Cup 2006?
+	A.Wayne Rooney	B.Lucas Podolski
+	C.Lionel Messi	D.Christiano Ronaldo
+#
